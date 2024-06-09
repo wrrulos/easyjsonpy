@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+build/
+dist/
+node_modules/
+*.http
+*.pyc
+*.egg-info
+*.msi
