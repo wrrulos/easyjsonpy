@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "easyjsonpy"
+description = "Python library that allows you to easily load languages and settings ​​into your project using JSON files"
+version = "1.0.0"
+readme = "README.md"
+requires-python = ">=3.6"
+keywords = ["language", "settings", "python", "json"]
+authors = [
+  {name = "Pedro Agustin Vega (wrrulos)", email = "vegapedroagustin2004@gmail.com"}
+]
+dependencies = [
+    "aiofiles",
+]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+]
+license = {text = "MIT License"}
+
+[project.urls]
+homepage = "https://github.com/wrrulos/easyjsonpy"
+documentation = "https://github.com/wrrulos/easyjsonpy"
+repository = "hhttps://github.com/wrrulos/easyjsonpy"
