@@ -3,7 +3,7 @@ EasyJsonPy is a Python library for loading and managing languages ​​and sett
 
 ## Installation
 
-To install EasyJsonPy, simply clone the repository and run:
+To install EasyJsonPy, simply use the pip install command
 
 ```bash
 pip install easyjsonpy
